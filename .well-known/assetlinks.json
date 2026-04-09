@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.luckliukdev.liukstimer",
       "sha256_cert_fingerprints": [
-        "20:B6:4D:E5:DE:7E:1A:23:4B:41:69:2B:15:7A:6C:78:4A:B0:AB:DE:23:3C:43:0E:25:5C:F0:7C:F2:20:AA:B8"
+        "20:B6:4D:E5:DE:7E:1A:23:4B:41:69:2B:15:7A:6C:78:4A:B0:AB:DE:23:3C:43:0E:25:5C:F0:7C:F2:20:AA:B8",
+        "62:7A:1E:DD:FD:AA:63:A2:7E:EE:AF:65:D8:1D:BF:C6:A8:2D:93:F3:FA:F5:7E:1B:7B:E4:C5:55:54:99:8A:ED"
       ]
     }
   }
