@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.luckytimer.luckytimer",
+      "sha256_cert_fingerprints": [
+        "9A:38:7D:1B:ED:EC:6B:67:7A:C3:1F:5E:E5:70:58:CB:E5:A5:5C:46:1B:2C:9F:3F:51:92:77:E5:25:F0:07:B2"
+      ]
+    }
+  }
+]
